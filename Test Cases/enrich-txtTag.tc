@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>enrich-txtTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeb67524-d1bd-4971-9bf8-1bcc6080e38f</testCaseGuid>
+   <variable>
+      <defaultValue>';'</defaultValue>
+      <description></description>
+      <id>b56edd22-ac29-4a5c-a332-cf5c6d800e87</id>
+      <masked>false</masked>
+      <name>nSep</name>
+   </variable>
+   <variable>
+      <defaultValue>','</defaultValue>
+      <description></description>
+      <id>759e5416-b4d9-40d6-be56-fa627606f9d9</id>
+      <masked>false</masked>
+      <name>vSep</name>
+   </variable>
+   <variable>
+      <defaultValue>10</defaultValue>
+      <description></description>
+      <id>d783d6bf-6c9d-4794-acca-5443508fc928</id>
+      <masked>false</masked>
+      <name>limit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d84231dc-73af-4909-a4a2-14eb659b3357</id>
+      <masked>false</masked>
+      <name>startFresh</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4faaf9c-bef8-4d9d-88c6-158bfd75f12f</id>
+      <masked>false</masked>
+      <name>addTxtTag</name>
+   </variable>
+</TestCaseEntity>

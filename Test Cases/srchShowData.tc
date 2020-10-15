@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>srchShowData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8de93c4-b933-4a66-9af0-19e5a7ad2823</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43f87bd2-909d-4ded-ab04-5af522e6f59f</id>
+      <masked>false</masked>
+      <name>startFresh</name>
+   </variable>
+   <variable>
+      <defaultValue>'unit price;total_soldval'</defaultValue>
+      <description></description>
+      <id>22186cb4-51ab-4a2e-93d2-f844b17f75e8</id>
+      <masked>false</masked>
+      <name>showDataAttrName</name>
+   </variable>
+   <variable>
+      <defaultValue>';'</defaultValue>
+      <description></description>
+      <id>2bfbd8e2-2228-404c-8d7a-2a1805e293db</id>
+      <masked>false</masked>
+      <name>nSep</name>
+   </variable>
+</TestCaseEntity>

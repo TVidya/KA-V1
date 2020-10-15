@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>loginchkdatafile</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>157601cf-0511-4b5b-8e5c-6b5471ea27a6</testSuiteGuid>
+   <testCaseLink>
+      <guid>81027c66-2542-4ba6-83b6-3aa2b2f952b2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginCID008</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1d1c53dd-ad09-4c47-8891-cc1851eccaab</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/logindata</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>1d1c53dd-ad09-4c47-8891-cc1851eccaab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>fe03db76-0b84-4b7a-8094-54ee1ab463d2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1d1c53dd-ad09-4c47-8891-cc1851eccaab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userName</value>
+         <variableId>416338ed-00a8-4bde-917d-705973e9b382</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1d1c53dd-ad09-4c47-8891-cc1851eccaab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pwd</value>
+         <variableId>0b0baacf-91bc-4212-8e40-8910402c0006</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

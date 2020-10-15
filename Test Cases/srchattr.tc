@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>srchattr</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>132986c8-edba-46e7-968e-5e1c0cfc1a2b</testCaseGuid>
+   <variable>
+      <defaultValue>';'</defaultValue>
+      <description></description>
+      <id>287a529a-1816-4e99-bfbe-3db6882d3d9f</id>
+      <masked>false</masked>
+      <name>nSep</name>
+   </variable>
+   <variable>
+      <defaultValue>','</defaultValue>
+      <description></description>
+      <id>fcc36d64-a89d-4942-bb54-a099a7ff2e1e</id>
+      <masked>false</masked>
+      <name>vSep</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4ff07ab7-8340-4bc5-a89f-b15220f2c9b5</id>
+      <masked>false</masked>
+      <name>startFresh</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94d294e1-f4f8-4b2b-b639-f72bc507a859</id>
+      <masked>false</masked>
+      <name>sAttrNM</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c917272c-1631-4a2b-a068-b95131f61456</id>
+      <masked>false</masked>
+      <name>attrVals</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>srchSD</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>39d63a9d-d231-4ed5-8577-f2a486d91a6a</testSuiteGuid>
+   <testCaseLink>
+      <guid>77cc928a-ddcd-498d-9d8b-8474afde3445</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginCID008</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bac446af-c85d-439d-af15-fd3678ca84c1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/logindata</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>bac446af-c85d-439d-af15-fd3678ca84c1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>fe03db76-0b84-4b7a-8094-54ee1ab463d2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bac446af-c85d-439d-af15-fd3678ca84c1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userName</value>
+         <variableId>416338ed-00a8-4bde-917d-705973e9b382</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bac446af-c85d-439d-af15-fd3678ca84c1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pwd</value>
+         <variableId>0b0baacf-91bc-4212-8e40-8910402c0006</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e529469b-73cc-4d7d-aa35-9d770687f6ae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/srchShowData</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>43f87bd2-909d-4ded-ab04-5af522e6f59f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>22186cb4-51ab-4a2e-93d2-f844b17f75e8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2bfbd8e2-2228-404c-8d7a-2a1805e293db</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

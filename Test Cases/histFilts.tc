@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>histFilts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61aa5490-6e6b-451a-afdd-902607d7ce0b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02032c2b-2cf0-4cfb-9fcb-09db34938dd5</id>
+      <masked>false</masked>
+      <name>startFresh</name>
+   </variable>
+   <variable>
+      <defaultValue>'brand'</defaultValue>
+      <description></description>
+      <id>f9016083-f502-4226-a650-8e064f8a292a</id>
+      <masked>false</masked>
+      <name>sAttrNM</name>
+   </variable>
+   <variable>
+      <defaultValue>'AARK,AB AETERNO'</defaultValue>
+      <description></description>
+      <id>81782b5c-eeed-421d-bb9e-699a2d28f1c0</id>
+      <masked>false</masked>
+      <name>attrVals</name>
+   </variable>
+   <variable>
+      <defaultValue>';\t'</defaultValue>
+      <description></description>
+      <id>994e98ec-4365-4831-83bf-0a255b1730ad</id>
+      <masked>false</masked>
+      <name>nSep</name>
+   </variable>
+   <variable>
+      <defaultValue>','</defaultValue>
+      <description></description>
+      <id>996ad08d-29ae-4acf-a189-16f3bdf912d6</id>
+      <masked>false</masked>
+      <name>vSep</name>
+   </variable>
+   <variable>
+      <defaultValue>'brand'</defaultValue>
+      <description></description>
+      <id>9da09d1c-f7af-4575-a7d0-c59baf0e8ab4</id>
+      <masked>false</masked>
+      <name>groupByAttrName</name>
+   </variable>
+   <variable>
+      <defaultValue>'{&quot;brand&quot;:&quot;AARK&quot;}'</defaultValue>
+      <description></description>
+      <id>1c1db44b-0a8a-4418-aa55-d39d0d96f63d</id>
+      <masked>false</masked>
+      <name>grpName</name>
+   </variable>
+</TestCaseEntity>

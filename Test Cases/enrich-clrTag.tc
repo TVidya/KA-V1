@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>enrich-clrTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>514f0195-9807-41d5-a7ce-20d98870565f</testCaseGuid>
+   <variable>
+      <defaultValue>';'</defaultValue>
+      <description></description>
+      <id>ab184214-2304-4320-831c-f0b122769767</id>
+      <masked>false</masked>
+      <name>nSep</name>
+   </variable>
+   <variable>
+      <defaultValue>','</defaultValue>
+      <description></description>
+      <id>12051e76-5823-42a6-8197-7b4fd23cc873</id>
+      <masked>false</masked>
+      <name>vSep</name>
+   </variable>
+   <variable>
+      <defaultValue>10</defaultValue>
+      <description></description>
+      <id>a1b2b2e2-1ad5-45e6-86c9-c7a12d730e6d</id>
+      <masked>false</masked>
+      <name>limit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a47807a-5065-4a9c-9eff-f6cc4b5f96fd</id>
+      <masked>false</masked>
+      <name>startFresh</name>
+   </variable>
+   <variable>
+      <defaultValue>'new basic'</defaultValue>
+      <description></description>
+      <id>a7eb09b3-6fb3-4293-ae9a-0f9d1bba2be4</id>
+      <masked>false</masked>
+      <name>TclrGrp</name>
+   </variable>
+   <variable>
+      <defaultValue>'TR15-1'</defaultValue>
+      <description></description>
+      <id>65c2edf1-aa1f-44f8-b955-4800510f8285</id>
+      <masked>false</masked>
+      <name>TclrName</name>
+   </variable>
+</TestCaseEntity>
